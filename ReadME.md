@@ -45,3 +45,4 @@ By following these steps, you can easily integrate the Stepper component into yo
 "# steppers" 
 "# My-stepper" 
 "# My-stepper" 
+"# My-stepper" 
