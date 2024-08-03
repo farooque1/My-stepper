@@ -1,6 +1,6 @@
 {
-  "name": "advance-stepper",
-  "version": "1.0.0",
+  "name": "advance-steppers",
+  "version": "0.1.7",
   "description": "steppers",
   "main": "index.js",
   "scripts": {
